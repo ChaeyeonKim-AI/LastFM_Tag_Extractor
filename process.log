@@ -1,0 +1,801 @@
+2024-09-28 03:47:40,444 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 03:47:40,450 - INFO - Loaded 1093 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 03:47:44,896 - INFO - WebDriver initialized successfully.
+2024-09-28 03:47:45,023 - INFO - Switched to new tab.
+2024-09-28 03:47:48,597 - INFO - Google page opened.
+2024-09-28 03:47:49,017 - INFO - Search executed for keyword: Salt lastfm LastFM
+2024-09-28 03:47:50,225 - INFO - Switched to new tab.
+2024-09-28 03:47:52,995 - INFO - Google page opened.
+2024-09-28 03:47:53,794 - INFO - Search executed for keyword: Real Love lastfm LastFM
+2024-09-28 03:47:55,917 - INFO - Switched to new tab.
+2024-09-28 03:47:58,229 - INFO - Google page opened.
+2024-09-28 03:47:58,592 - INFO - Search executed for keyword: I'm Gonna Ride lastfm LastFM
+2024-09-28 03:48:00,564 - INFO - Switched to new tab.
+2024-09-28 03:48:05,995 - INFO - Google page opened.
+2024-09-28 03:48:06,332 - INFO - Search executed for keyword: CHEGOU 3 lastfm LastFM
+2024-09-28 03:48:07,925 - INFO - Switched to new tab.
+2024-09-28 03:48:10,626 - INFO - Google page opened.
+2024-09-28 03:48:11,044 - INFO - Search executed for keyword: Cry For You - Techno Remix lastfm LastFM
+2024-09-28 03:48:12,048 - INFO - Batch of 5 completed. Pausing.
+2024-09-28 03:48:12,050 - INFO - Progress saved at keyword 5.
+2024-09-28 03:48:12,050 - INFO - Keeping browser open for manual tasks.
+2024-09-28 04:03:08,014 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 04:03:08,019 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 04:04:12,882 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 04:04:12,886 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 04:04:46,267 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 04:04:46,275 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 04:07:03,468 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 04:07:03,472 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 04:10:40,233 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 04:10:40,237 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 04:21:40,441 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 04:21:40,445 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 09:50:52,025 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 09:50:52,029 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 09:51:14,393 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 09:51:14,398 - ERROR - Encoding error in file /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv: 'utf-8' codec can't decode byte 0x92 in position 2: invalid start byte
+2024-09-28 09:54:39,609 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 09:54:39,613 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 09:54:39,622 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 09:54:43,147 - INFO - WebDriver initialized successfully.
+2024-09-28 09:54:43,293 - INFO - Switched to new tab.
+2024-09-28 09:54:46,949 - INFO - Google page opened.
+2024-09-28 09:54:47,460 - INFO - Search executed for keyword: I'm Comin' Over LastFM
+2024-09-28 09:54:49,052 - INFO - Switched to new tab.
+2024-09-28 09:54:51,772 - INFO - Google page opened.
+2024-09-28 09:54:52,095 - INFO - Search executed for keyword: The Hitman - 7'' Mix LastFM
+2024-09-28 09:54:53,252 - INFO - Switched to new tab.
+2024-09-28 09:54:56,076 - INFO - Google page opened.
+2024-09-28 09:54:56,519 - INFO - Search executed for keyword: ____ LastFM
+2024-09-28 09:54:57,654 - INFO - Switched to new tab.
+2024-09-28 09:54:59,894 - INFO - Google page opened.
+2024-09-28 09:55:00,215 - INFO - Search executed for keyword: Wedding Song LastFM
+2024-09-28 09:55:01,377 - INFO - Switched to new tab.
+2024-09-28 09:55:04,102 - INFO - Google page opened.
+2024-09-28 09:55:04,416 - INFO - Search executed for keyword: Ta Ta Ta LastFM
+2024-09-28 09:55:05,418 - INFO - Batch of 5 completed. Pausing.
+2024-09-28 09:55:05,420 - INFO - Progress saved at keyword 10.
+2024-09-28 09:55:05,420 - INFO - Keeping browser open for manual tasks.
+2024-09-28 10:00:42,638 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 10:00:42,641 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 10:00:42,646 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 10:00:45,011 - INFO - WebDriver initialized successfully.
+2024-09-28 10:00:45,286 - INFO - Switched to new tab.
+2024-09-28 10:00:49,151 - INFO - Google page opened.
+2024-09-28 10:00:49,774 - INFO - Search executed for keyword: A Thousand Years — Last FM
+2024-09-28 10:00:50,858 - INFO - Switched to new tab.
+2024-09-28 10:00:53,727 - INFO - Google page opened.
+2024-09-28 10:00:53,999 - INFO - Search executed for keyword: Abala Ya Bali — Last FM
+2024-09-28 10:00:55,498 - INFO - Switched to new tab.
+2024-09-28 10:00:58,444 - INFO - Google page opened.
+2024-09-28 10:01:00,201 - INFO - Search executed for keyword: ____ — Last FM
+2024-09-28 10:01:01,261 - INFO - Switched to new tab.
+2024-09-28 10:01:03,882 - INFO - Google page opened.
+2024-09-28 10:01:04,211 - INFO - Search executed for keyword: Are You Gonna Go My Way — Last FM
+2024-09-28 10:01:05,314 - INFO - Switched to new tab.
+2024-09-28 10:01:07,851 - INFO - Google page opened.
+2024-09-28 10:01:08,140 - INFO - Search executed for keyword: I Knew I Loved You — Last FM
+2024-09-28 10:01:09,226 - INFO - Switched to new tab.
+2024-09-28 10:01:11,756 - INFO - Google page opened.
+2024-09-28 10:01:12,682 - INFO - Search executed for keyword: Barbie Girl — Last FM
+2024-09-28 10:01:13,792 - INFO - Switched to new tab.
+2024-09-28 10:01:15,987 - INFO - Google page opened.
+2024-09-28 10:01:16,274 - INFO - Search executed for keyword: Fireflies — Last FM
+2024-09-28 10:01:17,366 - INFO - Switched to new tab.
+2024-09-28 10:01:19,926 - INFO - Google page opened.
+2024-09-28 10:01:20,201 - INFO - Search executed for keyword: KAHOOT! — Last FM
+2024-09-28 10:01:21,296 - INFO - Switched to new tab.
+2024-09-28 10:01:23,906 - INFO - Google page opened.
+2024-09-28 10:01:24,203 - INFO - Search executed for keyword: Fragile Thing — Last FM
+2024-09-28 10:01:25,560 - INFO - Switched to new tab.
+2024-09-28 10:01:28,105 - INFO - Google page opened.
+2024-09-28 10:01:28,365 - INFO - Search executed for keyword: Feel It Comin' — Last FM
+2024-09-28 10:01:29,369 - INFO - Batch of 20 completed. Pausing.
+2024-09-28 10:01:29,372 - INFO - Progress saved at keyword 20.
+2024-09-28 10:01:29,372 - INFO - Keeping browser open for manual tasks.
+2024-09-28 10:14:24,629 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 10:14:24,633 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 10:14:24,641 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 10:14:28,258 - INFO - WebDriver initialized successfully.
+2024-09-28 10:14:28,392 - INFO - Switched to new tab.
+2024-09-28 10:14:31,895 - INFO - Google page opened.
+2024-09-28 10:14:32,901 - INFO - Search executed for keyword: Cachorro - Ao Vivo — Last FM
+2024-09-28 10:14:34,173 - INFO - Switched to new tab.
+2024-09-28 10:14:37,241 - INFO - Google page opened.
+2024-09-28 10:14:37,888 - INFO - Search executed for keyword: PROLOGUE (Quasi Niente from Piano Sonata No. 1 in F Minor, Op. 6: IV. Funebre) - Upright Version — Last FM
+2024-09-28 10:14:39,275 - INFO - Switched to new tab.
+2024-09-28 10:14:41,525 - INFO - Google page opened.
+2024-09-28 10:14:41,858 - INFO - Search executed for keyword: IN MY HEAD! — Last FM
+2024-09-28 10:14:43,019 - INFO - Switched to new tab.
+2024-09-28 10:14:46,566 - INFO - Google page opened.
+2024-09-28 10:14:46,830 - INFO - Search executed for keyword: Corpo Dela — Last FM
+2024-09-28 10:14:47,887 - INFO - Switched to new tab.
+2024-09-28 10:14:50,348 - INFO - Google page opened.
+2024-09-28 10:14:50,774 - INFO - Search executed for keyword: Are You out yet ? — Last FM
+2024-09-28 10:14:51,847 - INFO - Switched to new tab.
+2024-09-28 10:14:54,398 - INFO - Google page opened.
+2024-09-28 10:14:54,724 - INFO - Search executed for keyword: As Es La Vida — Last FM
+2024-09-28 10:14:55,797 - INFO - Switched to new tab.
+2024-09-28 10:14:58,285 - INFO - Google page opened.
+2024-09-28 10:14:58,599 - INFO - Search executed for keyword: Electric Sunrise — Last FM
+2024-09-28 10:14:59,732 - INFO - Switched to new tab.
+2024-09-28 10:15:02,246 - INFO - Google page opened.
+2024-09-28 10:15:02,515 - INFO - Search executed for keyword: Shanghai Nights — Last FM
+2024-09-28 10:15:03,656 - INFO - Switched to new tab.
+2024-09-28 10:15:06,167 - INFO - Google page opened.
+2024-09-28 10:15:06,432 - INFO - Search executed for keyword: O Children — Last FM
+2024-09-28 10:15:08,968 - INFO - Switched to new tab.
+2024-09-28 10:15:11,468 - INFO - Google page opened.
+2024-09-28 10:15:11,754 - INFO - Search executed for keyword: Tomorrow — Last FM
+2024-09-28 10:15:12,837 - INFO - Switched to new tab.
+2024-09-28 10:15:15,371 - INFO - Google page opened.
+2024-09-28 10:15:15,836 - INFO - Search executed for keyword: Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 — Last FM
+2024-09-28 10:15:16,897 - INFO - Switched to new tab.
+2024-09-28 10:15:19,376 - INFO - Google page opened.
+2024-09-28 10:15:19,808 - INFO - Search executed for keyword: Love Me Like You Do - From "Fifty Shades Of Grey" — Last FM
+2024-09-28 10:15:20,893 - INFO - Switched to new tab.
+2024-09-28 10:15:23,359 - INFO - Google page opened.
+2024-09-28 10:15:23,735 - INFO - Search executed for keyword: Higher Powers (feat. Boma Nime) — Last FM
+2024-09-28 10:15:24,854 - INFO - Switched to new tab.
+2024-09-28 10:15:28,237 - INFO - Google page opened.
+2024-09-28 10:15:28,529 - INFO - Search executed for keyword: Vanilla Twilight — Last FM
+2024-09-28 10:15:29,652 - INFO - Switched to new tab.
+2024-09-28 10:15:32,159 - INFO - Google page opened.
+2024-09-28 10:15:32,437 - INFO - Search executed for keyword: THOMAS — Last FM
+2024-09-28 10:15:33,597 - INFO - Switched to new tab.
+2024-09-28 10:15:36,130 - INFO - Google page opened.
+2024-09-28 10:15:36,493 - INFO - Search executed for keyword: Porcelanato - Ao Vivo — Last FM
+2024-09-28 10:15:37,560 - INFO - Switched to new tab.
+2024-09-28 10:15:40,193 - INFO - Google page opened.
+2024-09-28 10:15:40,532 - INFO - Search executed for keyword: Brain Power — Last FM
+2024-09-28 10:15:41,650 - INFO - Switched to new tab.
+2024-09-28 10:15:44,295 - INFO - Google page opened.
+2024-09-28 10:15:44,699 - INFO - Search executed for keyword: Te Necesito — Last FM
+2024-09-28 10:15:46,066 - INFO - Switched to new tab.
+2024-09-28 10:15:48,355 - INFO - Google page opened.
+2024-09-28 10:15:48,659 - INFO - Search executed for keyword: Mapopo — Last FM
+2024-09-28 10:15:49,909 - INFO - Switched to new tab.
+2024-09-28 10:15:52,500 - INFO - Google page opened.
+2024-09-28 10:15:52,822 - INFO - Search executed for keyword: _______ (___) — Last FM
+2024-09-28 10:15:53,824 - INFO - Batch of 20 completed. Pausing.
+2024-09-28 10:15:53,826 - INFO - Progress saved at keyword 40.
+2024-09-28 10:15:53,826 - INFO - Keeping browser open for manual tasks.
+2024-09-28 10:29:35,261 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 10:29:35,270 - INFO - Loaded 1088 URLs from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 10:29:39,203 - INFO - WebDriver initialized successfully.
+2024-09-28 10:43:18,231 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 10:43:18,244 - INFO - Loaded 1088 URLs from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 10:43:22,713 - INFO - WebDriver initialized successfully.
+2024-09-28 10:46:05,470 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 10:46:05,482 - INFO - Loaded 1088 URLs from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 10:46:09,325 - INFO - WebDriver initialized successfully.
+2024-09-28 10:46:09,495 - INFO - Switched to new tab.
+2024-09-28 10:46:13,541 - INFO - Opened URL: https://app.chartmetric.com/track/116317132
+2024-09-28 10:46:15,091 - INFO - Switched to new tab.
+2024-09-28 10:46:18,477 - INFO - Opened URL: https://app.chartmetric.com/track/56176047
+2024-09-28 10:46:19,689 - INFO - Switched to new tab.
+2024-09-28 10:46:23,113 - INFO - Opened URL: https://app.chartmetric.com/track/116757724
+2024-09-28 10:46:24,394 - INFO - Switched to new tab.
+2024-09-28 10:46:28,335 - INFO - Opened URL: https://app.chartmetric.com/track/111239694
+2024-09-28 10:46:29,449 - INFO - Switched to new tab.
+2024-09-28 10:46:32,783 - INFO - Opened URL: https://app.chartmetric.com/track/135400970
+2024-09-28 10:46:33,882 - INFO - Switched to new tab.
+2024-09-28 10:46:37,103 - INFO - Opened URL: https://app.chartmetric.com/track/13755739
+2024-09-28 10:46:38,299 - INFO - Switched to new tab.
+2024-09-28 10:46:41,582 - INFO - Opened URL: https://app.chartmetric.com/track/114541603
+2024-09-28 10:46:42,686 - INFO - Switched to new tab.
+2024-09-28 10:46:46,244 - INFO - Opened URL: https://app.chartmetric.com/track/72587181
+2024-09-28 10:46:47,422 - INFO - Switched to new tab.
+2024-09-28 10:46:50,693 - INFO - Opened URL: https://app.chartmetric.com/track/13713970
+2024-09-28 10:46:52,051 - INFO - Switched to new tab.
+2024-09-28 10:51:44,618 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 10:51:44,634 - INFO - Loaded 1088 URLs from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 10:51:49,462 - INFO - WebDriver initialized successfully.
+2024-09-28 10:52:32,724 - ERROR - Failed to log in to Google: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101b25d28 chromedriver + 4996392
+1   chromedriver                        0x0000000101b1d5ea chromedriver + 4961770
+2   chromedriver                        0x00000001016c0d10 chromedriver + 388368
+3   chromedriver                        0x000000010170d30f chromedriver + 701199
+4   chromedriver                        0x000000010170d3f1 chromedriver + 701425
+5   chromedriver                        0x0000000101752464 chromedriver + 984164
+6   chromedriver                        0x00000001017319dd chromedriver + 850397
+7   chromedriver                        0x000000010174fa00 chromedriver + 973312
+8   chromedriver                        0x0000000101731753 chromedriver + 849747
+9   chromedriver                        0x0000000101700635 chromedriver + 648757
+10  chromedriver                        0x0000000101700e5e chromedriver + 650846
+11  chromedriver                        0x0000000101aec010 chromedriver + 4759568
+12  chromedriver                        0x0000000101af0f28 chromedriver + 4779816
+13  chromedriver                        0x0000000101af15f5 chromedriver + 4781557
+14  chromedriver                        0x0000000101aceab9 chromedriver + 4639417
+15  chromedriver                        0x0000000101af18e9 chromedriver + 4782313
+16  chromedriver                        0x0000000101ac0054 chromedriver + 4579412
+17  chromedriver                        0x0000000101b0da18 chromedriver + 4897304
+18  chromedriver                        0x0000000101b0dc13 chromedriver + 4897811
+19  chromedriver                        0x0000000101b1d1ee chromedriver + 4960750
+20  libsystem_pthread.dylib             0x00007ff80dea518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff80dea0ae3 thread_start + 15
+
+2024-09-28 10:52:32,871 - INFO - Switched to new tab.
+2024-09-28 10:52:36,890 - INFO - Opened URL: https://app.chartmetric.com/track/116317132
+2024-09-28 10:52:37,999 - INFO - Switched to new tab.
+2024-09-28 10:52:41,088 - INFO - Opened URL: https://app.chartmetric.com/track/56176047
+2024-09-28 10:52:42,197 - INFO - Switched to new tab.
+2024-09-28 10:52:45,937 - INFO - Opened URL: https://app.chartmetric.com/track/116757724
+2024-09-28 10:52:47,003 - INFO - Switched to new tab.
+2024-09-28 10:52:50,020 - INFO - Opened URL: https://app.chartmetric.com/track/111239694
+2024-09-28 10:52:51,095 - INFO - Switched to new tab.
+2024-09-28 10:52:54,244 - INFO - Opened URL: https://app.chartmetric.com/track/135400970
+2024-09-28 10:52:55,476 - INFO - Switched to new tab.
+2024-09-28 10:52:58,752 - INFO - Opened URL: https://app.chartmetric.com/track/13755739
+2024-09-28 10:52:59,855 - INFO - Switched to new tab.
+2024-09-28 10:53:02,859 - INFO - Opened URL: https://app.chartmetric.com/track/114541603
+2024-09-28 10:53:04,049 - INFO - Switched to new tab.
+2024-09-28 10:53:07,074 - INFO - Opened URL: https://app.chartmetric.com/track/72587181
+2024-09-28 10:53:08,315 - INFO - Switched to new tab.
+2024-09-28 10:53:11,313 - INFO - Opened URL: https://app.chartmetric.com/track/13713970
+2024-09-28 10:53:12,850 - INFO - Switched to new tab.
+2024-09-28 10:53:16,099 - INFO - Opened URL: https://app.chartmetric.com/track/32545408
+2024-09-28 11:11:42,137 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 11:11:42,140 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 11:11:42,150 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 11:11:46,166 - INFO - WebDriver initialized successfully.
+2024-09-28 11:12:30,059 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 11:12:30,064 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 11:12:30,071 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 11:12:33,825 - INFO - WebDriver initialized successfully.
+2024-09-28 11:14:29,265 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 11:14:29,270 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 11:14:29,277 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 11:14:32,865 - INFO - WebDriver initialized successfully.
+2024-09-28 11:16:52,213 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 11:16:52,221 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 11:16:52,231 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 11:16:56,288 - INFO - WebDriver initialized successfully.
+2024-09-28 11:16:56,417 - INFO - Switched to new tab.
+2024-09-28 11:16:59,721 - INFO - Google page opened.
+2024-09-28 11:17:00,240 - INFO - Search executed for keyword: Emmne Moi — Last FM
+2024-09-28 11:17:01,445 - INFO - Switched to new tab.
+2024-09-28 11:17:04,185 - INFO - Google page opened.
+2024-09-28 11:17:04,531 - INFO - Search executed for keyword: Stiekem wil ik DJ zijn — Last FM
+2024-09-28 11:17:05,712 - INFO - Switched to new tab.
+2024-09-28 11:17:07,969 - INFO - Google page opened.
+2024-09-28 11:17:08,353 - INFO - Search executed for keyword: Escarlata - Remix — Last FM
+2024-09-28 11:17:09,413 - INFO - Switched to new tab.
+2024-09-28 11:17:12,900 - INFO - Google page opened.
+2024-09-28 11:17:13,231 - INFO - Search executed for keyword: Honky Tonk Women — Last FM
+2024-09-28 11:17:14,970 - INFO - Switched to new tab.
+2024-09-28 11:17:17,806 - INFO - Google page opened.
+2024-09-28 11:17:18,222 - INFO - Search executed for keyword: T Me Perteneces — Last FM
+2024-09-28 11:17:19,927 - INFO - Switched to new tab.
+2024-09-28 11:17:23,143 - INFO - Google page opened.
+2024-09-28 11:17:23,459 - INFO - Search executed for keyword: Too Fast — Last FM
+2024-09-28 11:17:24,796 - INFO - Switched to new tab.
+2024-09-28 11:17:27,345 - INFO - Google page opened.
+2024-09-28 11:17:28,638 - INFO - Search executed for keyword: Sway — Last FM
+2024-09-28 11:17:29,733 - INFO - Switched to new tab.
+2024-09-28 11:17:32,261 - INFO - Google page opened.
+2024-09-28 11:17:32,596 - INFO - Search executed for keyword: Samba in Paris — Last FM
+2024-09-28 11:17:33,740 - INFO - Switched to new tab.
+2024-09-28 11:17:36,475 - INFO - Google page opened.
+2024-09-28 11:17:36,973 - INFO - Search executed for keyword: Team — Last FM
+2024-09-28 11:17:38,174 - INFO - Switched to new tab.
+2024-09-28 11:17:41,050 - INFO - Google page opened.
+2024-09-28 11:17:41,593 - INFO - Search executed for keyword: End of the Road — Last FM
+2024-09-28 11:17:42,761 - INFO - Switched to new tab.
+2024-09-28 11:17:45,687 - INFO - Google page opened.
+2024-09-28 11:17:47,213 - INFO - Search executed for keyword: Mtasubiri (feat. Zuchu) — Last FM
+2024-09-28 11:17:48,401 - INFO - Switched to new tab.
+2024-09-28 11:17:51,437 - INFO - Google page opened.
+2024-09-28 11:17:52,184 - INFO - Search executed for keyword: Azcar Amargo — Last FM
+2024-09-28 11:17:53,459 - INFO - Switched to new tab.
+2024-09-28 11:17:56,329 - INFO - Google page opened.
+2024-09-28 11:17:57,544 - INFO - Search executed for keyword: Let's Go Surfing — Last FM
+2024-09-28 11:17:58,801 - INFO - Switched to new tab.
+2024-09-28 11:18:01,087 - INFO - Google page opened.
+2024-09-28 11:18:01,546 - INFO - Search executed for keyword: Con Ese Corazn — Last FM
+2024-09-28 11:18:02,615 - INFO - Switched to new tab.
+2024-09-28 11:18:05,167 - INFO - Google page opened.
+2024-09-28 11:18:05,562 - INFO - Search executed for keyword: Just Break Up — Last FM
+2024-09-28 11:18:06,688 - INFO - Switched to new tab.
+2024-09-28 11:18:09,319 - INFO - Google page opened.
+2024-09-28 11:18:10,579 - INFO - Search executed for keyword: We Don't Talk About Bruno — Last FM
+2024-09-28 11:18:11,717 - INFO - Switched to new tab.
+2024-09-28 11:18:14,433 - INFO - Google page opened.
+2024-09-28 11:18:14,883 - INFO - Search executed for keyword: Desi Wine (From "Thank You For Coming") — Last FM
+2024-09-28 11:18:16,312 - INFO - Switched to new tab.
+2024-09-28 11:18:18,976 - INFO - Google page opened.
+2024-09-28 11:18:19,320 - INFO - Search executed for keyword: Lucky Old You — Last FM
+2024-09-28 11:18:20,748 - INFO - Switched to new tab.
+2024-09-28 11:18:23,304 - INFO - Google page opened.
+2024-09-28 11:18:23,784 - INFO - Search executed for keyword: Calm Mind - With melody — Last FM
+2024-09-28 11:18:24,967 - INFO - Switched to new tab.
+2024-09-28 11:18:28,444 - INFO - Google page opened.
+2024-09-28 11:18:29,607 - INFO - Search executed for keyword: No Cap - A COLORS SHOW — Last FM
+2024-09-28 11:18:30,647 - INFO - Batch of 20 completed. Pausing.
+2024-09-28 11:18:30,655 - INFO - Progress saved at keyword 60.
+2024-09-28 11:18:30,657 - INFO - Keeping browser open for manual tasks.
+2024-09-28 14:07:36,250 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 14:07:36,254 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 14:07:36,261 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 14:07:41,692 - INFO - WebDriver initialized successfully.
+2024-09-28 14:07:41,797 - INFO - Switched to new tab.
+2024-09-28 14:07:44,430 - INFO - Google page opened.
+2024-09-28 14:07:44,858 - INFO - Search executed for keyword: Lord of the Dance — Last FM
+2024-09-28 14:07:46,302 - INFO - Switched to new tab.
+2024-09-28 14:07:49,495 - INFO - Google page opened.
+2024-09-28 14:07:51,846 - INFO - Search executed for keyword: Talking Like That — Last FM
+2024-09-28 14:07:52,923 - INFO - Switched to new tab.
+2024-09-28 14:07:55,779 - INFO - Google page opened.
+2024-09-28 14:07:56,086 - INFO - Search executed for keyword: Empini — Last FM
+2024-09-28 14:07:57,392 - INFO - Switched to new tab.
+2024-09-28 14:07:59,629 - INFO - Google page opened.
+2024-09-28 14:07:59,944 - INFO - Search executed for keyword: Vivir Mi Vida — Last FM
+2024-09-28 14:08:01,012 - INFO - Switched to new tab.
+2024-09-28 14:08:03,565 - INFO - Google page opened.
+2024-09-28 14:08:04,060 - INFO - Search executed for keyword: I Know You Want Me (Calle Ocho) — Last FM
+2024-09-28 14:08:05,124 - INFO - Switched to new tab.
+2024-09-28 14:08:07,682 - INFO - Google page opened.
+2024-09-28 14:08:07,966 - INFO - Search executed for keyword: Happier — Last FM
+2024-09-28 14:08:09,029 - INFO - Switched to new tab.
+2024-09-28 14:08:11,548 - INFO - Google page opened.
+2024-09-28 14:08:11,882 - INFO - Search executed for keyword: Tujhse Naraz Nahi Zindagi — Last FM
+2024-09-28 14:08:12,937 - INFO - Switched to new tab.
+2024-09-28 14:08:15,470 - INFO - Google page opened.
+2024-09-28 14:08:15,745 - INFO - Search executed for keyword: _____ — Last FM
+2024-09-28 14:08:16,798 - INFO - Switched to new tab.
+2024-09-28 14:08:19,342 - INFO - Google page opened.
+2024-09-28 14:08:19,653 - INFO - Search executed for keyword: Go Dig My Grave — Last FM
+2024-09-28 14:08:20,752 - INFO - Switched to new tab.
+2024-09-28 14:08:23,798 - INFO - Google page opened.
+2024-09-28 14:08:24,115 - INFO - Search executed for keyword: Gelo No Copo — Last FM
+2024-09-28 14:08:25,306 - INFO - Switched to new tab.
+2024-09-28 14:08:28,517 - INFO - Google page opened.
+2024-09-28 14:08:29,137 - INFO - Search executed for keyword: Like I'm Gonna Lose You (feat. John Legend) — Last FM
+2024-09-28 14:08:30,196 - INFO - Switched to new tab.
+2024-09-28 14:08:32,759 - INFO - Google page opened.
+2024-09-28 14:08:33,147 - INFO - Search executed for keyword: Calm Down (with Selena Gomez) — Last FM
+2024-09-28 14:08:34,205 - INFO - Switched to new tab.
+2024-09-28 14:08:36,721 - INFO - Google page opened.
+2024-09-28 14:08:37,033 - INFO - Search executed for keyword: How I Get Myself Killed — Last FM
+2024-09-28 14:08:38,257 - INFO - Switched to new tab.
+2024-09-28 14:08:40,825 - INFO - Google page opened.
+2024-09-28 14:08:41,195 - INFO - Search executed for keyword: Ella Es la Que Manda — Last FM
+2024-09-28 14:08:42,337 - INFO - Switched to new tab.
+2024-09-28 14:08:44,959 - INFO - Google page opened.
+2024-09-28 14:08:45,355 - INFO - Search executed for keyword: Mal au crne — Last FM
+2024-09-28 14:08:46,443 - INFO - Switched to new tab.
+2024-09-28 14:08:48,642 - INFO - Google page opened.
+2024-09-28 14:08:49,007 - INFO - Search executed for keyword: Born in the U.S.A. — Last FM
+2024-09-28 14:08:50,076 - INFO - Switched to new tab.
+2024-09-28 14:08:52,620 - INFO - Google page opened.
+2024-09-28 14:08:52,901 - INFO - Search executed for keyword: Africa — Last FM
+2024-09-28 14:08:53,981 - INFO - Switched to new tab.
+2024-09-28 14:08:56,612 - INFO - Google page opened.
+2024-09-28 14:08:57,137 - INFO - Search executed for keyword: Better Together — Last FM
+2024-09-28 14:08:58,246 - INFO - Switched to new tab.
+2024-09-28 14:09:00,928 - INFO - Google page opened.
+2024-09-28 14:09:01,365 - INFO - Search executed for keyword: Departure (From "Kiki's Delivery Service") - Piano Version — Last FM
+2024-09-28 14:09:02,604 - INFO - Switched to new tab.
+2024-09-28 14:09:05,488 - INFO - Google page opened.
+2024-09-28 14:09:05,837 - INFO - Search executed for keyword: El Oro de la Tolita — Last FM
+2024-09-28 14:09:06,838 - INFO - Batch of 20 completed. Pausing.
+2024-09-28 14:09:06,842 - INFO - Progress saved at keyword 80.
+2024-09-28 14:09:06,843 - INFO - Keeping browser open for manual tasks.
+2024-09-28 14:57:16,563 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 14:57:16,568 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 14:57:16,576 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 14:57:21,279 - INFO - WebDriver initialized successfully.
+2024-09-28 14:57:21,508 - INFO - Switched to new tab.
+2024-09-28 14:57:26,347 - INFO - Google page opened.
+2024-09-28 14:57:26,915 - INFO - Search executed for keyword: Somebody Like You — Last FM
+2024-09-28 14:57:29,533 - INFO - Switched to new tab.
+2024-09-28 14:57:31,761 - INFO - Google page opened.
+2024-09-28 14:57:34,833 - INFO - Search executed for keyword: Marry You — Last FM
+2024-09-28 14:57:35,916 - INFO - Switched to new tab.
+2024-09-28 14:57:39,632 - INFO - Google page opened.
+2024-09-28 14:57:39,976 - INFO - Search executed for keyword: Kill Bill — Last FM
+2024-09-28 14:57:41,108 - INFO - Switched to new tab.
+2024-09-28 14:57:43,351 - INFO - Google page opened.
+2024-09-28 14:57:43,673 - INFO - Search executed for keyword: I Didn't Mean It — Last FM
+2024-09-28 14:57:45,158 - INFO - Switched to new tab.
+2024-09-28 14:57:47,720 - INFO - Google page opened.
+2024-09-28 14:57:48,024 - INFO - Search executed for keyword: ________________ — Last FM
+2024-09-28 14:57:49,158 - INFO - Switched to new tab.
+2024-09-28 14:57:51,362 - INFO - Google page opened.
+2024-09-28 14:57:51,631 - INFO - Search executed for keyword: Endorphine — Last FM
+2024-09-28 14:57:52,831 - INFO - Switched to new tab.
+2024-09-28 14:57:55,329 - INFO - Google page opened.
+2024-09-28 14:57:55,626 - INFO - Search executed for keyword: Please Please Please — Last FM
+2024-09-28 14:57:56,712 - INFO - Switched to new tab.
+2024-09-28 14:57:59,221 - INFO - Google page opened.
+2024-09-28 14:57:59,502 - INFO - Search executed for keyword: 3 BIG BALLS — Last FM
+2024-09-28 14:58:00,568 - INFO - Switched to new tab.
+2024-09-28 14:58:03,581 - INFO - Google page opened.
+2024-09-28 14:58:03,976 - INFO - Search executed for keyword: Dana Kuduro (Danza Kuduro) — Last FM
+2024-09-28 14:58:05,082 - INFO - Switched to new tab.
+2024-09-28 14:58:07,588 - INFO - Google page opened.
+2024-09-28 14:58:07,904 - INFO - Search executed for keyword: No Other Place — Last FM
+2024-09-28 14:58:09,023 - INFO - Switched to new tab.
+2024-09-28 14:58:11,571 - INFO - Google page opened.
+2024-09-28 14:58:11,846 - INFO - Search executed for keyword: Summer Of '69 — Last FM
+2024-09-28 14:58:12,970 - INFO - Switched to new tab.
+2024-09-28 14:58:15,493 - INFO - Google page opened.
+2024-09-28 14:58:15,760 - INFO - Search executed for keyword: The Best — Last FM
+2024-09-28 14:58:16,948 - INFO - Switched to new tab.
+2024-09-28 14:58:19,178 - INFO - Google page opened.
+2024-09-28 14:58:19,443 - INFO - Search executed for keyword: My Universe — Last FM
+2024-09-28 14:58:20,504 - INFO - Switched to new tab.
+2024-09-28 14:58:23,012 - INFO - Google page opened.
+2024-09-28 14:58:24,277 - INFO - Search executed for keyword: MUKKBANG! — Last FM
+2024-09-28 14:58:25,334 - INFO - Switched to new tab.
+2024-09-28 14:58:28,192 - INFO - Google page opened.
+2024-09-28 14:58:28,436 - INFO - Search executed for keyword: Yellow — Last FM
+2024-09-28 14:58:29,546 - INFO - Switched to new tab.
+2024-09-28 14:58:32,040 - INFO - Google page opened.
+2024-09-28 14:58:32,324 - INFO - Search executed for keyword: Come Inside Of My Heart — Last FM
+2024-09-28 14:58:34,003 - INFO - Switched to new tab.
+2024-09-28 14:58:36,595 - INFO - Google page opened.
+2024-09-28 14:58:36,871 - INFO - Search executed for keyword: Untuk Apa — Last FM
+2024-09-28 14:58:38,096 - INFO - Switched to new tab.
+2024-09-28 14:58:40,704 - INFO - Google page opened.
+2024-09-28 14:58:41,337 - INFO - Search executed for keyword: Big Dawgs — Last FM
+2024-09-28 14:58:42,486 - INFO - Switched to new tab.
+2024-09-28 14:58:45,065 - INFO - Google page opened.
+2024-09-28 14:58:45,444 - INFO - Search executed for keyword: Teardrop — Last FM
+2024-09-28 14:58:46,697 - INFO - Switched to new tab.
+2024-09-28 14:58:50,165 - INFO - Google page opened.
+2024-09-28 14:58:50,471 - INFO - Search executed for keyword: Cruel Summer — Last FM
+2024-09-28 14:58:51,473 - INFO - Batch of 20 completed. Pausing.
+2024-09-28 14:58:51,478 - INFO - Progress saved at keyword 100.
+2024-09-28 14:58:51,479 - INFO - Keeping browser open for manual tasks.
+2024-09-28 15:01:47,906 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-28 15:01:47,908 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-28 15:01:47,914 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-28 15:01:50,051 - INFO - WebDriver initialized successfully.
+2024-09-28 15:01:50,159 - INFO - Switched to new tab.
+2024-09-28 15:01:53,434 - INFO - Google page opened.
+2024-09-28 15:01:55,112 - INFO - Search executed for keyword: I Like It — Last FM
+2024-09-28 15:01:56,158 - INFO - Switched to new tab.
+2024-09-28 15:01:58,974 - INFO - Google page opened.
+2024-09-28 15:01:59,339 - INFO - Search executed for keyword: Psycho Dreams (Sped Up) — Last FM
+2024-09-28 15:02:01,935 - INFO - Switched to new tab.
+2024-09-28 15:02:04,529 - INFO - Google page opened.
+2024-09-28 15:02:04,935 - INFO - Search executed for keyword: EI DO SENSACIO! — Last FM
+2024-09-28 15:02:06,422 - INFO - Switched to new tab.
+2024-09-28 15:02:10,027 - INFO - Google page opened.
+2024-09-28 15:02:10,814 - INFO - Search executed for keyword: Virei Fregus — Last FM
+2024-09-28 15:02:11,893 - INFO - Switched to new tab.
+2024-09-28 15:02:15,127 - INFO - Google page opened.
+2024-09-28 15:02:15,795 - INFO - Search executed for keyword: _______ — Last FM
+2024-09-28 15:02:17,557 - INFO - Switched to new tab.
+2024-09-28 15:02:20,457 - INFO - Google page opened.
+2024-09-28 15:02:21,966 - INFO - Search executed for keyword: El Final de Nuestra Historia — Last FM
+2024-09-28 15:02:23,138 - INFO - Switched to new tab.
+2024-09-28 15:02:26,004 - INFO - Google page opened.
+2024-09-28 15:02:26,904 - INFO - Search executed for keyword: Malicious Intentions — Last FM
+2024-09-28 15:02:28,358 - INFO - Switched to new tab.
+2024-09-28 15:02:32,316 - INFO - Google page opened.
+2024-09-28 15:02:33,155 - INFO - Search executed for keyword: Mere Rashke Qamar — Last FM
+2024-09-28 15:02:34,264 - INFO - Switched to new tab.
+2024-09-28 15:02:37,483 - INFO - Google page opened.
+2024-09-28 15:02:37,923 - INFO - Search executed for keyword: _ki Yabancõ — Last FM
+2024-09-28 15:02:39,049 - INFO - Switched to new tab.
+2024-09-28 15:02:42,249 - INFO - Google page opened.
+2024-09-28 15:02:42,839 - INFO - Search executed for keyword: EX BOYFRIEND — Last FM
+2024-09-28 15:02:43,962 - INFO - Switched to new tab.
+2024-09-28 15:02:46,861 - INFO - Google page opened.
+2024-09-28 15:02:47,278 - INFO - Search executed for keyword: Beautiful People (feat. Khalid) — Last FM
+2024-09-28 15:02:49,680 - INFO - Switched to new tab.
+2024-09-28 15:02:52,488 - INFO - Google page opened.
+2024-09-28 15:02:52,876 - INFO - Search executed for keyword: Brahms Lullaby — Last FM
+2024-09-28 15:02:53,980 - INFO - Switched to new tab.
+2024-09-28 15:02:56,633 - INFO - Google page opened.
+2024-09-28 15:02:57,006 - INFO - Search executed for keyword: Complicated (feat. Young Franco) — Last FM
+2024-09-28 15:02:58,153 - INFO - Switched to new tab.
+2024-09-28 15:03:00,833 - INFO - Google page opened.
+2024-09-28 15:03:01,257 - INFO - Search executed for keyword: Comme s'il en pleuvait — Last FM
+2024-09-28 15:03:02,425 - INFO - Switched to new tab.
+2024-09-28 15:03:05,578 - INFO - Google page opened.
+2024-09-28 15:03:06,310 - INFO - Search executed for keyword: la terminal — Last FM
+2024-09-28 15:03:07,654 - INFO - Switched to new tab.
+2024-09-28 15:03:10,690 - INFO - Google page opened.
+2024-09-28 15:03:11,111 - INFO - Search executed for keyword: (Baby I've Got You) On My Mind — Last FM
+2024-09-28 15:03:12,254 - INFO - Switched to new tab.
+2024-09-28 15:03:14,827 - INFO - Google page opened.
+2024-09-28 15:03:15,567 - INFO - Search executed for keyword: Wanted Dead Or Alive — Last FM
+2024-09-28 15:03:16,759 - INFO - Switched to new tab.
+2024-09-28 15:03:19,567 - INFO - Google page opened.
+2024-09-28 15:03:20,043 - INFO - Search executed for keyword: Silncios - Ao Vivo — Last FM
+2024-09-28 15:03:21,203 - INFO - Switched to new tab.
+2024-09-28 15:03:24,002 - INFO - Google page opened.
+2024-09-28 15:03:24,746 - INFO - Search executed for keyword: Never Enough (feat. Kali-B) — Last FM
+2024-09-28 15:03:26,663 - INFO - Switched to new tab.
+2024-09-28 15:03:29,499 - INFO - Google page opened.
+2024-09-28 15:03:31,031 - INFO - Search executed for keyword: EU SOU U FUNKY BEAR - SLOWED — Last FM
+2024-09-28 15:03:32,040 - INFO - Batch of 20 completed. Pausing.
+2024-09-28 15:03:32,048 - INFO - Progress saved at keyword 120.
+2024-09-28 15:03:32,050 - INFO - Keeping browser open for manual tasks.
+2024-09-29 17:29:57,693 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv exists.
+2024-09-29 17:29:57,700 - WARNING - UTF-8 decoding failed. Trying ISO-8859-1 for /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv.
+2024-09-29 17:29:57,716 - INFO - Loaded 1088 keywords from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/lastfm_keywords.csv using ISO-8859-1.
+2024-09-29 17:30:01,258 - INFO - WebDriver initialized successfully.
+2024-09-29 17:30:01,524 - INFO - Switched to new tab.
+2024-09-29 17:30:05,145 - INFO - Google page opened.
+2024-09-29 17:30:05,882 - INFO - Search executed for keyword: Baby Blue — Last FM
+2024-09-29 17:30:07,322 - INFO - Switched to new tab.
+2024-09-29 17:30:10,037 - INFO - Google page opened.
+2024-09-29 17:30:10,362 - INFO - Search executed for keyword: WANNABE — Last FM
+2024-09-29 17:30:11,750 - INFO - Switched to new tab.
+2024-09-29 17:30:14,424 - INFO - Google page opened.
+2024-09-29 17:30:15,647 - INFO - Search executed for keyword: Tere Liye — Last FM
+2024-09-29 17:30:16,725 - INFO - Switched to new tab.
+2024-09-29 17:30:19,883 - INFO - Google page opened.
+2024-09-29 17:30:20,173 - INFO - Search executed for keyword: Borderline — Last FM
+2024-09-29 17:30:21,233 - INFO - Switched to new tab.
+2024-09-29 17:30:23,760 - INFO - Google page opened.
+2024-09-29 17:30:24,077 - INFO - Search executed for keyword: Say My Name — Last FM
+2024-09-29 17:30:25,136 - INFO - Switched to new tab.
+2024-09-29 17:30:27,689 - INFO - Google page opened.
+2024-09-29 17:30:27,969 - INFO - Search executed for keyword: I Love Rock 'N Roll — Last FM
+2024-09-29 17:30:29,023 - INFO - Switched to new tab.
+2024-09-29 17:30:31,511 - INFO - Google page opened.
+2024-09-29 17:30:31,780 - INFO - Search executed for keyword: Sunny Sunny — Last FM
+2024-09-29 17:30:34,888 - INFO - Switched to new tab.
+2024-09-29 17:30:37,407 - INFO - Google page opened.
+2024-09-29 17:30:37,753 - INFO - Search executed for keyword: Dooriyan (From "Love Aaj Kal") — Last FM
+2024-09-29 17:30:38,892 - INFO - Switched to new tab.
+2024-09-29 17:30:41,388 - INFO - Google page opened.
+2024-09-29 17:30:41,785 - INFO - Search executed for keyword: Applause — Last FM
+2024-09-29 17:30:43,492 - INFO - Switched to new tab.
+2024-09-29 17:30:46,083 - INFO - Google page opened.
+2024-09-29 17:30:46,468 - INFO - Search executed for keyword: Treat You Better — Last FM
+2024-09-29 17:30:47,663 - INFO - Switched to new tab.
+2024-09-29 17:30:49,875 - INFO - Google page opened.
+2024-09-29 17:30:50,217 - INFO - Search executed for keyword: Mello — Last FM
+2024-09-29 17:30:51,494 - INFO - Switched to new tab.
+2024-09-29 17:30:54,140 - INFO - Google page opened.
+2024-09-29 17:30:54,470 - INFO - Search executed for keyword: Tainted Love — Last FM
+2024-09-29 17:30:55,695 - INFO - Switched to new tab.
+2024-09-29 17:30:58,340 - INFO - Google page opened.
+2024-09-29 17:30:58,612 - INFO - Search executed for keyword: Impilo Yam — Last FM
+2024-09-29 17:30:59,676 - INFO - Switched to new tab.
+2024-09-29 17:31:02,209 - INFO - Google page opened.
+2024-09-29 17:31:02,504 - INFO - Search executed for keyword: Lithium — Last FM
+2024-09-29 17:31:03,695 - INFO - Switched to new tab.
+2024-09-29 17:31:06,426 - INFO - Google page opened.
+2024-09-29 17:31:07,317 - INFO - Search executed for keyword: Rahu — Last FM
+2024-09-29 17:31:08,494 - INFO - Switched to new tab.
+2024-09-29 17:31:11,078 - INFO - Google page opened.
+2024-09-29 17:31:11,493 - INFO - Search executed for keyword: On My Own — Last FM
+2024-09-29 17:31:12,835 - INFO - Switched to new tab.
+2024-09-29 17:31:15,662 - INFO - Google page opened.
+2024-09-29 17:31:16,869 - INFO - Search executed for keyword: Lover — Last FM
+2024-09-29 17:31:18,200 - INFO - Switched to new tab.
+2024-09-29 17:31:20,754 - INFO - Google page opened.
+2024-09-29 17:31:21,181 - INFO - Search executed for keyword: F no pobre louco — Last FM
+2024-09-29 17:31:22,493 - INFO - Switched to new tab.
+2024-09-29 17:31:24,789 - INFO - Google page opened.
+2024-09-29 17:31:25,118 - INFO - Search executed for keyword: The Hanging Tree — Last FM
+2024-09-29 17:31:26,193 - INFO - Switched to new tab.
+2024-09-29 17:31:28,756 - INFO - Google page opened.
+2024-09-29 17:31:29,094 - INFO - Search executed for keyword: Me Quedo o Me Voy — Last FM
+2024-09-29 17:31:30,098 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 17:31:30,100 - INFO - Progress saved at keyword 140.
+2024-09-29 17:31:30,100 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:09:26,390 - ERROR - File /mnt/data/LastFM_URL.csv not found.
+2024-09-29 19:11:24,726 - ERROR - File /mnt/data/LastFM_URL.csv not found.
+2024-09-29 19:12:28,288 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:12:28,296 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:12:30,620 - INFO - WebDriver initialized successfully.
+2024-09-29 19:17:08,811 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:17:08,819 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:17:10,991 - INFO - WebDriver initialized successfully.
+2024-09-29 19:17:59,648 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:17:59,651 - INFO - Progress saved at keyword 160.
+2024-09-29 19:17:59,651 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:24:14,951 - ERROR - File /mnt/data/LastFM_URL.csv not found.
+2024-09-29 19:24:23,242 - ERROR - File /mnt/data/LastFM_URL.csv not found.
+2024-09-29 19:26:59,559 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:26:59,567 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:27:02,334 - INFO - WebDriver initialized successfully.
+2024-09-29 19:28:34,271 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:28:34,280 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:28:36,150 - INFO - WebDriver initialized successfully.
+2024-09-29 19:29:45,137 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:29:45,143 - INFO - Progress saved at keyword 180.
+2024-09-29 19:29:45,144 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:37:29,857 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:37:29,866 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:37:32,216 - INFO - WebDriver initialized successfully.
+2024-09-29 19:38:24,459 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:38:24,461 - INFO - Progress saved at keyword 200.
+2024-09-29 19:38:24,461 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:41:09,196 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:41:09,199 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:41:11,592 - INFO - WebDriver initialized successfully.
+2024-09-29 19:42:25,186 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:42:25,189 - INFO - Progress saved at keyword 220.
+2024-09-29 19:42:25,189 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:44:50,634 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:44:50,640 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:44:53,404 - INFO - WebDriver initialized successfully.
+2024-09-29 19:46:01,455 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:46:01,465 - INFO - Progress saved at keyword 240.
+2024-09-29 19:46:01,466 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:47:53,719 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:47:53,723 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:47:55,879 - INFO - WebDriver initialized successfully.
+2024-09-29 19:49:02,445 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:49:02,455 - INFO - Progress saved at keyword 260.
+2024-09-29 19:49:02,461 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:50:36,871 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:50:36,877 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:50:38,806 - INFO - WebDriver initialized successfully.
+2024-09-29 19:51:45,337 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:51:45,357 - INFO - Progress saved at keyword 280.
+2024-09-29 19:51:45,361 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:54:03,478 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:54:03,482 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:54:05,396 - INFO - WebDriver initialized successfully.
+2024-09-29 19:55:19,138 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:55:19,141 - INFO - Progress saved at keyword 300.
+2024-09-29 19:55:19,141 - INFO - Keeping browser open for manual tasks.
+2024-09-29 19:58:29,268 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 19:58:29,272 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 19:58:31,292 - INFO - WebDriver initialized successfully.
+2024-09-29 19:59:38,801 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 19:59:38,820 - INFO - Progress saved at keyword 320.
+2024-09-29 19:59:38,828 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:02:35,092 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:02:35,097 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:02:37,244 - INFO - WebDriver initialized successfully.
+2024-09-29 20:03:51,819 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:03:51,822 - INFO - Progress saved at keyword 340.
+2024-09-29 20:03:51,822 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:07:25,418 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:07:25,422 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:07:27,315 - INFO - WebDriver initialized successfully.
+2024-09-29 20:08:44,456 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:08:44,468 - INFO - Progress saved at keyword 360.
+2024-09-29 20:08:44,526 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:11:28,788 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:11:28,792 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:11:30,646 - INFO - WebDriver initialized successfully.
+2024-09-29 20:13:03,282 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:13:03,287 - INFO - Progress saved at keyword 380.
+2024-09-29 20:13:03,289 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:15:15,781 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:15:15,786 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:15:17,792 - INFO - WebDriver initialized successfully.
+2024-09-29 20:16:25,419 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:16:25,425 - INFO - Progress saved at keyword 400.
+2024-09-29 20:16:25,425 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:18:55,280 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:18:55,284 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:18:57,202 - INFO - WebDriver initialized successfully.
+2024-09-29 20:20:14,615 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:20:14,629 - INFO - Progress saved at keyword 420.
+2024-09-29 20:20:14,631 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:22:22,086 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:22:22,090 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:22:23,956 - INFO - WebDriver initialized successfully.
+2024-09-29 20:23:40,115 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:23:40,123 - INFO - Progress saved at keyword 440.
+2024-09-29 20:23:40,124 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:26:12,292 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:26:12,296 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:26:14,181 - INFO - WebDriver initialized successfully.
+2024-09-29 20:27:43,839 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:27:43,843 - INFO - Progress saved at keyword 460.
+2024-09-29 20:27:43,843 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:29:29,041 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:29:29,045 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:29:30,928 - INFO - WebDriver initialized successfully.
+2024-09-29 20:31:57,416 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:31:57,420 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:31:59,221 - INFO - WebDriver initialized successfully.
+2024-09-29 20:32:58,021 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:32:58,025 - INFO - Progress saved at keyword 480.
+2024-09-29 20:32:58,026 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:35:37,618 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:35:37,622 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:35:39,751 - INFO - WebDriver initialized successfully.
+2024-09-29 20:36:44,228 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:36:44,230 - INFO - Progress saved at keyword 500.
+2024-09-29 20:36:44,231 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:38:47,991 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:38:47,995 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:38:49,894 - INFO - WebDriver initialized successfully.
+2024-09-29 20:39:53,065 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:39:53,156 - INFO - Progress saved at keyword 520.
+2024-09-29 20:39:53,157 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:41:50,365 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:41:50,369 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:41:52,217 - INFO - WebDriver initialized successfully.
+2024-09-29 20:42:57,644 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:42:57,648 - INFO - Progress saved at keyword 540.
+2024-09-29 20:42:57,648 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:45:35,066 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:45:35,070 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:45:37,142 - INFO - WebDriver initialized successfully.
+2024-09-29 20:46:52,126 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:46:52,133 - INFO - Progress saved at keyword 560.
+2024-09-29 20:46:52,134 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:48:30,271 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:48:30,277 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:48:32,182 - INFO - WebDriver initialized successfully.
+2024-09-29 20:49:36,748 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:49:36,753 - INFO - Progress saved at keyword 580.
+2024-09-29 20:49:36,753 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:53:49,006 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:53:49,010 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:53:50,887 - INFO - WebDriver initialized successfully.
+2024-09-29 20:55:10,766 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 20:55:10,771 - INFO - Progress saved at keyword 600.
+2024-09-29 20:55:10,771 - INFO - Keeping browser open for manual tasks.
+2024-09-29 20:57:32,088 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 20:57:32,092 - INFO - Loaded 605 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 20:57:34,016 - INFO - WebDriver initialized successfully.
+2024-09-29 20:57:48,063 - INFO - All keywords processed.
+2024-09-29 20:57:48,065 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:06:22,834 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:06:22,844 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:06:24,725 - INFO - WebDriver initialized successfully.
+2024-09-29 21:07:29,687 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:07:29,692 - INFO - Progress saved at keyword 620.
+2024-09-29 21:07:29,693 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:09:56,393 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:09:56,399 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:09:58,192 - INFO - WebDriver initialized successfully.
+2024-09-29 21:11:10,955 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:11:10,958 - INFO - Progress saved at keyword 640.
+2024-09-29 21:11:10,959 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:13:35,602 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:13:35,606 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:13:37,524 - INFO - WebDriver initialized successfully.
+2024-09-29 21:14:43,534 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:14:43,581 - INFO - Progress saved at keyword 660.
+2024-09-29 21:14:43,583 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:16:45,818 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:16:45,823 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:16:47,667 - INFO - WebDriver initialized successfully.
+2024-09-29 21:18:04,545 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:18:04,548 - INFO - Progress saved at keyword 680.
+2024-09-29 21:18:04,548 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:20:56,766 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:20:56,770 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:20:58,639 - INFO - WebDriver initialized successfully.
+2024-09-29 21:22:04,678 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:22:04,681 - INFO - Progress saved at keyword 700.
+2024-09-29 21:22:04,681 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:24:17,900 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:24:17,905 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:24:19,913 - INFO - WebDriver initialized successfully.
+2024-09-29 21:25:30,618 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:25:30,633 - INFO - Progress saved at keyword 720.
+2024-09-29 21:25:30,635 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:27:57,163 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:27:57,167 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:27:58,954 - INFO - WebDriver initialized successfully.
+2024-09-29 21:29:06,567 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:29:06,572 - INFO - Progress saved at keyword 740.
+2024-09-29 21:29:06,576 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:31:37,285 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:31:37,290 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:31:39,100 - INFO - WebDriver initialized successfully.
+2024-09-29 21:32:37,244 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:32:37,248 - INFO - Progress saved at keyword 760.
+2024-09-29 21:32:37,249 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:36:02,733 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:36:02,739 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:36:04,649 - INFO - WebDriver initialized successfully.
+2024-09-29 21:37:23,913 - INFO - Batch of 20 completed. Pausing.
+2024-09-29 21:37:23,920 - INFO - Progress saved at keyword 780.
+2024-09-29 21:37:23,920 - INFO - Keeping browser open for manual tasks.
+2024-09-29 21:39:02,775 - INFO - File /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv exists.
+2024-09-29 21:39:02,779 - INFO - Loaded 784 entries from /Users/chaeyeonkim/Projects/LastFM_URL_Search/data/LastFM_URL.csv using UTF-8.
+2024-09-29 21:39:04,756 - INFO - WebDriver initialized successfully.
+2024-09-29 21:39:23,695 - INFO - All keywords processed.
+2024-09-29 21:39:23,699 - INFO - Keeping browser open for manual tasks.

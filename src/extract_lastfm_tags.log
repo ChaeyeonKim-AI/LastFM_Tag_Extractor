@@ -1,0 +1,43 @@
+2024-09-29 23:41:05,295 - INFO - Script started
+2024-09-29 23:41:05,295 - INFO - Using Chrome driver at: /Users/chaeyeonkim/Downloads/chromedriver-mac-x64/chromedriver
+2024-09-29 23:41:05,296 - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: /Users/chaeyeonkim/Downloads/chromedriver-mac-x64/chromedriver
+2024-09-29 23:41:05,302 - DEBUG - Started executable: `/Users/chaeyeonkim/Downloads/chromedriver-mac-x64/chromedriver` in a child process with pid: 17822 using 0 to output -3
+2024-09-29 23:41:05,388 - DEBUG - POST http://localhost:61996/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': []}}}}
+2024-09-29 23:41:05,390 - DEBUG - Starting new HTTP connection (1): localhost:61996
+2024-09-29 23:41:07,223 - DEBUG - http://localhost:61996 "POST /session HTTP/11" 200 0
+2024-09-29 23:41:07,242 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"129.0.6668.70","chrome":{"chromedriverVersion":"129.0.6668.58 (81a06fb873a9b386848719cf9f93e59579fb5d4b-refs/branch-heads/6668@{#1318})","userDataDir":"/var/folders/n7/h0rhk38d6nd7dtnyc7y7nflc0000gn/T/.org.chromium.Chromium.ppV4pg"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:62007"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"mac","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"facc7a5519d83630d5a0dd3ca7901a15"}} | headers=HTTPHeaderDict({'Content-Length': '890', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:07,242 - DEBUG - Finished Request
+2024-09-29 23:41:07,279 - INFO - WebDriver initialized
+2024-09-29 23:41:07,279 - INFO - Opening URL: https://www.last.fm/music/Yann+Tiersen/_/La+Valse+d%27Am%C3%A9lie/+tags
+2024-09-29 23:41:07,299 - DEBUG - POST http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15/url {'url': 'https://www.last.fm/music/Yann+Tiersen/_/La+Valse+d%27Am%C3%A9lie/+tags'}
+2024-09-29 23:41:10,907 - DEBUG - http://localhost:61996 "POST /session/facc7a5519d83630d5a0dd3ca7901a15/url HTTP/11" 200 0
+2024-09-29 23:41:10,907 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:10,907 - DEBUG - Finished Request
+2024-09-29 23:41:13,913 - INFO - Page loaded, proceeding to find elements
+2024-09-29 23:41:13,925 - DEBUG - POST http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15/elements {'using': 'xpath', 'value': '//h3[@class="big-tags-item-name"]/a[@class="link-block-target"]'}
+2024-09-29 23:41:13,986 - DEBUG - http://localhost:61996 "POST /session/facc7a5519d83630d5a0dd3ca7901a15/elements HTTP/11" 200 0
+2024-09-29 23:41:13,986 - DEBUG - Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.51"},{"element-6066-11e4-a52e-4f735466cecf":"f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.56"},{"element-6066-11e4-a52e-4f735466cecf":"f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.63"},{"element-6066-11e4-a52e-4f735466cecf":"f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.70"}]} | headers=HTTPHeaderDict({'Content-Length': '479', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:13,986 - DEBUG - Finished Request
+2024-09-29 23:41:13,986 - DEBUG - GET http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.51/text {}
+2024-09-29 23:41:14,148 - DEBUG - http://localhost:61996 "GET /session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.51/text HTTP/11" 200 0
+2024-09-29 23:41:14,148 - DEBUG - Remote response: status=200 | data={"value":"soundtrack"} | headers=HTTPHeaderDict({'Content-Length': '22', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:14,148 - DEBUG - Finished Request
+2024-09-29 23:41:14,148 - DEBUG - GET http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.56/text {}
+2024-09-29 23:41:14,400 - DEBUG - http://localhost:61996 "GET /session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.56/text HTTP/11" 200 0
+2024-09-29 23:41:14,400 - DEBUG - Remote response: status=200 | data={"value":"instrumental"} | headers=HTTPHeaderDict({'Content-Length': '24', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:14,400 - DEBUG - Finished Request
+2024-09-29 23:41:14,401 - DEBUG - GET http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.63/text {}
+2024-09-29 23:41:14,419 - DEBUG - http://localhost:61996 "GET /session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.63/text HTTP/11" 200 0
+2024-09-29 23:41:14,419 - DEBUG - Remote response: status=200 | data={"value":"french"} | headers=HTTPHeaderDict({'Content-Length': '18', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:14,419 - DEBUG - Finished Request
+2024-09-29 23:41:14,419 - DEBUG - GET http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.70/text {}
+2024-09-29 23:41:14,430 - DEBUG - http://localhost:61996 "GET /session/facc7a5519d83630d5a0dd3ca7901a15/element/f.D69A948C4199C3A274D4093C6C999E32.d.4AFB3F7C1141972564F40ABC7562EC1F.e.70/text HTTP/11" 200 0
+2024-09-29 23:41:14,430 - DEBUG - Remote response: status=200 | data={"value":"accordion"} | headers=HTTPHeaderDict({'Content-Length': '21', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:14,430 - DEBUG - Finished Request
+2024-09-29 23:41:14,430 - INFO - Extracted tags: ['soundtrack', 'instrumental', 'french', 'accordion']
+2024-09-29 23:41:14,431 - DEBUG - DELETE http://localhost:61996/session/facc7a5519d83630d5a0dd3ca7901a15 {}
+2024-09-29 23:41:14,747 - DEBUG - http://localhost:61996 "DELETE /session/facc7a5519d83630d5a0dd3ca7901a15 HTTP/11" 200 0
+2024-09-29 23:41:14,747 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-29 23:41:14,747 - DEBUG - Finished Request
+2024-09-29 23:41:14,882 - INFO - WebDriver closed
+2024-09-29 23:41:14,882 - INFO - Script finished
